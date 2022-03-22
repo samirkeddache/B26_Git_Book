@@ -1,0 +1,1 @@
+I don't know any more of the requirements of the actual task but I assume it is about sorting the array manually and doing something specific with the selected element. We could possible do sorting ourselves at a later point
